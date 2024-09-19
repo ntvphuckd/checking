@@ -1,0 +1,1 @@
+NRONAMEK:server1.ngocrongnamek.com:6789:0,0,0
